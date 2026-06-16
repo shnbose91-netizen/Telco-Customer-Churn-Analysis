@@ -265,3 +265,6 @@ If you found this project useful or have feedback, feel free to connect:
 ---
 
 *⭐ If this project helped you, consider giving it a star on GitHub!*
+
+<img width="619" height="348" alt="dashboard" src="https://github.com/user-attachments/assets/4e1cf11c-3519-4a6e-975f-9cb2e25954f5" />
+
